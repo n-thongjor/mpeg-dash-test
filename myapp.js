@@ -1,5 +1,5 @@
 const manifestUri =
-    'https://zealous-wescoff-c0ea10.netlify.app/h264.mpd';
+    'https://zealous-wescoff-c0ea10.netlify.app/h264_master.m3u8';
 
 function initApp() {
   // Install built-in polyfills to patch browser incompatibilities.
